@@ -12,7 +12,7 @@
 - 🌱 I’m currently diving deep into **React Native, Supabase, and advanced Web3 paradigms**.
 - 💡 I love solving complex problems that involve heavy data integrity and automation.
 - 📫 How to reach me: **nworahebuka.a@gmail.com**
-- 🔗 Portfolio & Blog: [nworahsoft.tech](https://www.nworahsoft.tech)
+- 🔗 Portfolio & Website: [nworahebuka.nworahsoft.codes](https://nworahebuka.nworahsoft.codes)
 
 ### 🛠️ Tech Stack & Tools
 **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript <br>
