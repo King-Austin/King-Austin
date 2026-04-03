@@ -1,16 +1,43 @@
-# Hi there, I'm Nworah Ebuka Augustus 👋
+<div align="center">
+  <h1>Hi there, I'm Nworah Ebuka Augustus 👋</h1>
+  <h3>Full-Stack Software Engineer | Passionate Innovator</h3>
+  <p>Exploring new technologies and architecting real-world solutions.</p>
+</div>
 
-Tech enthusiast | Passionate about innovation, gadgets, and all things tech 🚀
+---
 
 ### 👨‍💻 About Me
-- 🌍 Based in Nigeria
-- 💼 Constantly exploring new tech stacks and solving real-world problems.
-- 📫 How to reach me: nworahebuka.a@gmail.com
-- 🔗 Portfolio/Blog: [nworahsoft.tech](https://www.nworahsoft.tech)
+- 🌍 Based in **Nigeria**
+- 🔭 I’m currently working on scalable front-end and backend structures, including IoT and mobile apps.
+- 🌱 I’m currently diving deep into **React Native, Supabase, and advanced Web3 paradigms**.
+- 💡 I love solving complex problems that involve heavy data integrity and automation.
+- 📫 How to reach me: **nworahebuka.a@gmail.com**
+- 🔗 Portfolio & Blog: [nworahsoft.tech](https://www.nworahsoft.tech)
 
-### 🚀 Top Projects
-- **[Smart Classroom Attendance](https://github.com/King-Austin/Smart_Classroom_Attendance)**: A high-integrity, real-time campus attendance system with multi-factor verification featuring Biometrics (Face Signature), Geo-fencing (GPS), and Proximity Detection (BLE). Built with React, Capacitor, and Supabase.
-- **[ATTENDIFY-BACKEND](https://github.com/King-Austin/ATTENDIFY-BACKEND)**: A digital attendance management platform developed to transition from paper-based tracking to secure, online cloud records for educational institutions.
+### 🛠️ Tech Stack & Tools
+**Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript <br>
+**Mobile & Cross-Platform:** React Native, Capacitor <br>
+**Backend:** Python, Node.js <br>
+**Database & BaaS:** Supabase, PostgreSQL <br>
+**Other Tools:** Git, GitHub Actions, Vercel
 
-### 🛠️ Technologies & Tools
-*TypeScript, Python, JavaScript, HTML, React, Supabase, Capacitor*
+### 🚀 Highlighted Projects
+
+*I build software focused on security, automation, and seamless user experiences. Here are my standout projects:*
+
+#### 🎓 [Smart Classroom Attendance](https://github.com/King-Austin/Smart_Classroom_Attendance) 
+> **Role:** Lead Engineer
+* **What it is:** A zero-trust campus attendance system designed to combat attendance fraud.
+* **Impact:** Replaced manual roll calls with a multi-factor system (Face Signature Biometrics, GPS Geofencing, and BLE Proximity).
+* **Stack:** React, TypeScript, Capacitor, Supabase, Web Bluetooth API.
+
+#### 🎒 [ATTENDIFY-BACKEND](https://github.com/King-Austin/ATTENDIFY-BACKEND)
+> **Role:** Backend Developer
+* **What it is:** The robust Python architecture powering a digital attendance management system for educational institutions.
+* **Impact:** Modernized and digitized paper-based tasks, creating administrative dashboards for secure, online tracking.
+* **Stack:** Python, Relational Databases.
+
+---
+<div align="center">
+  <i>Open to opportunities! Feel free to reach out if you're looking for a dedicated engineer who builds robust, impactful technology.</i>
+</div>
