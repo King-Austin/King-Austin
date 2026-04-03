@@ -9,17 +9,7 @@ I am a highly motivated Software Engineer specializing in building scalable, sec
 ---
 
 ## 📊 GitHub Analytics
-Here is a snapshot of my coding activity, including total lifetime commits, top languages, and daily streaks!
-
-<div align="center">
-  <!-- General Stats Card including total stars and commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="King-Austin's Top Stats" width="48%">
-  
-  <!-- Language Card showing code distribution -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Austin&layout=compact&theme=radical&hide_border=true" alt="King-Austin's Languages" width="48%">
-</div>
-
-<br/>
+Consistency is key to my development workflow. Here is a snapshot of my daily coding streaks and lifetime contributions!
 
 <div align="center">
   <!-- Interactive Streak Stats Card -->
