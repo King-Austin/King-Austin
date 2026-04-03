@@ -7,7 +7,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌍 Based in **Nigeria**
 - 🔭 I’m currently working on scalable front-end and backend structures, including IoT and mobile apps.
 - 🌱 I’m currently diving deep into **React Native, Supabase, and advanced Web3 paradigms**.
 - 💡 I love solving complex problems that involve heavy data integrity and automation.
