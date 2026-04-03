@@ -31,6 +31,12 @@
 * **Impact:** Replaced manual roll calls with a multi-factor system (Face Signature Biometrics, GPS Geofencing, and BLE Proximity).
 * **Stack:** React, TypeScript, Capacitor, Supabase, Web Bluetooth API.
 
+#### 🛒 [Single-Vendor E-Commerce Platform](https://github.com/King-Austin/laptop-ecommerce)
+> **Role:** Full-Stack Developer
+* **What it is:** A complete, production-ready single-vendor digital storefront configured specifically for electronics (laptops).
+* **Impact:** Delivered an end-to-end purchasing journey with integrated secure payments, cart state management, and an admin oversight dashboard.
+* **Stack:** TypeScript, React, Secure Payment Gateway APIs.
+
 #### 🎒 [ATTENDIFY-BACKEND](https://github.com/King-Austin/ATTENDIFY-BACKEND)
 > **Role:** Backend Developer
 * **What it is:** The robust Python architecture powering a digital attendance management system for educational institutions.
