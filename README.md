@@ -17,8 +17,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="165" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Austin&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="170" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=King-Austin&theme=tokyonight&hide_border=true" height="170" alt="Streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Austin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Languages" />
@@ -34,35 +34,27 @@
 
 ---
 
-## ⏱️ Coding Activity
+## 📈 Contribution Graph
 
-<!-- WakaTime stats — connect your account at wakatime.com to populate these -->
-<div align="center">
-
-[![Ebuka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingAustin&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@KingAustin)
-
-</div>
-
-<!-- Commit activity heatmap -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Austin&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📈 Dev Metrics
+## 📊 Dev Metrics
 
 <div align="center">
 
 ```text
-🌞 Morning    ░░░░░░░░░░░░░░░  Active builder — ships across all hours
-🌆 Evening    ████████████░░░  Peak focus window
-🌙 Night      ███░░░░░░░░░░░░  Deep work sessions
+ Morning    ░░░░░░░░░░░░░░░  Active builder — ships across all hours
+ Evening    ████████████░░░  Peak focus window
+ Night      ███░░░░░░░░░░░░  Deep work sessions
 
-📅 Most productive: late evenings & weekends
-🔥 Strongest streak: 12 days  (Aug 10 – Aug 21, 2025)
-📦 Total contributions: 1,098+  (May 2023 – present)
-🔒 Private repos: 33  |  🌍 Public: 26
+ Most productive : Late evenings & weekends
+ Strongest streak: 12 days  (Aug 10 – Aug 21, 2025)
+ Total contributions: 1,098+  (May 2023 – present)
+ Private repos: 33  |  Public: 26
 ```
 
 </div>
@@ -104,7 +96,7 @@
 |---|---|
 | **Stack** | `TypeScript` `React 18` `CapacitorJS` `Supabase` `TailwindCSS` |
 | **Features** | Biometrics (InsightFace), GPS geofencing, BLE proximity, device binding, role dashboards |
-| **Live** | [🌐 smart-attendance-ivory.vercel.app](https://smart-attendance-ivory.vercel.app) |
+| **Live** | [smart-attendance-ivory.vercel.app](https://smart-attendance-ivory.vercel.app) |
 | **Status** | 🟢 Live |
 
 ---
@@ -116,13 +108,13 @@
 |---|---|
 | **Stack** | `TypeScript` `React` `Next.js` |
 | **Features** | Vendor onboarding, product listings, payment integration, vendor dashboards |
-| **Live** | [🌐 storely.websyncdigital.com.ng](https://storely.websyncdigital.com.ng) |
+| **Live** | [storely.websyncdigital.com.ng](https://storely.websyncdigital.com.ng) |
 | **Status** | 🟢 Live |
 
 ---
 
 ### 🔹 Pharmaloop (EMERGENT) *(Private — In Active Development)*
-> Multi-pharmacy SaaS platform with WhatsApp bot for drug search, billing, and inventory
+> Multi-pharmacy SaaS: WhatsApp drug-search bot, Paystack billing, CME tracking, and real-time inventory
 
 | | |
 |---|---|
@@ -133,73 +125,96 @@
 ---
 
 ### 🔹 [Phishing Defense SaaS](https://github.com/King-Austin/phishing-defense-saas-main)
-> ML-powered phishing detection platform that classifies email threats in real time
+> ML-powered email threat detection platform — classify, flag, and act on phishing attempts in real time
 
 | | |
 |---|---|
 | **Stack** | `Python` `Machine Learning` `HTML/CSS` |
 | **Features** | Real-time threat classification, email content analysis, actionable threat insights dashboard |
-| **Live** | [🌐 phishing-defense.onrender.com](https://phishing-defense.onrender.com) |
+| **Live** | [phishing-defense.onrender.com](https://phishing-defense.onrender.com) |
 | **Status** | 🟢 Live |
 
 ---
 
 ### 🔹 [SecureCipher](https://github.com/King-Austin/securecipher_project)
-> Cryptographic middleware for secure banking transactions with end-to-end integrity guarantees
+> Cryptographic middleware enforcing end-to-end transaction integrity across banking layers
 
 | | |
 |---|---|
 | **Stack** | `TypeScript` `Python` `Django` `Cryptography` |
 | **Features** | ECDHE key exchange, dual-signature model, replay protection via nonce + timestamp validation |
-| **Live** | [🌐 securecipherbank.vercel.app](https://securecipherbank.vercel.app) |
+| **Live** | [securecipherbank.vercel.app](https://securecipherbank.vercel.app) |
 | **Status** | 🟢 Live |
 
 ---
 
-### 🔹 [ATTENDIFY Backend](https://github.com/King-Austin/ATTENDIFY-BACKEND)
-> Secure Python backend powering digital attendance management at scale
+### 🔹 [ZealyBot](https://github.com/King-Austin/zealybot)
+> Async automation bot for Zealy (Crew3) quest parsing and API task execution
 
 | | |
 |---|---|
-| **Stack** | `Python` `PostgreSQL` `REST API` |
-| **Features** | Role-based access control, secure auth, cloud data storage, export & reporting, CI/CD workflows |
-| **Live** | [🌐 smart-attendance-system-backend.vercel.app](https://smart-attendance-system-backend.vercel.app) |
+| **Stack** | `JavaScript` `Node.js` `async/await` |
+| **Features** | Task automation, deep async/await patterns, event-driven state handling, dynamic API integration |
 | **Status** | 🟢 Live |
 
 ---
 
-### 🔹 [CGPA Grading System](https://github.com/King-Austin/CGPA_grading_system_demo)
-> Unified CGPA calculator with a quantum superposition-inspired grading algorithm
+### 🔹 [Creator Hub](https://github.com/King-Austin/creator-hub)
+> Centralised management dashboard for digital content creators — track, manage, and scale
 
 | | |
 |---|---|
-| **Stack** | `TypeScript` `React` |
-| **Features** | Multi-university grading scale support, unified algorithm, live computation |
-| **Live** | [🌐 cgpa.nworahsoft.codes](https://cgpa.nworahsoft.codes) |
+| **Stack** | `TypeScript` `React` `Next.js` |
+| **Features** | Creator analytics, content management, performance tracking |
+| **Live** | [klavev2.vercel.app](https://klavev2.vercel.app) |
 | **Status** | 🟢 Live |
 
 ---
 
 ### 🔹 [Card Validator API](https://github.com/King-Austin/card-validator)
-> Production-grade REST API for credit card validation using the Luhn algorithm
+> Production-grade REST API for credit card validation — Luhn algorithm with Dockerised deployment
 
 | | |
 |---|---|
-| **Stack** | `TypeScript` `NestJS` `Node.js` |
-| **Features** | Luhn algorithm implementation, card type detection, production-ready error handling |
-| **Live** | [🌐 card-validator-project.onrender.com](https://card-validator-project.onrender.com/validate-card) |
+| **Stack** | `TypeScript` `NestJS` `Node.js` `Docker` |
+| **Features** | Luhn checksum validation, card type detection (Visa/Mastercard), built-in demo UI, production-ready |
+| **Live** | [card-validator-project.onrender.com](https://card-validator-project.onrender.com/validate-card) |
+| **Status** | 🟢 Live |
+
+---
+
+### 🔹 [ATTENDIFY Backend](https://github.com/King-Austin/ATTENDIFY-BACKEND)
+> Hardened Python backend for cloud-based attendance management with automated CI/CD pipelines
+
+| | |
+|---|---|
+| **Stack** | `Python` `PostgreSQL` `REST API` |
+| **Features** | Role-based access control, secure auth, cloud storage, data export & reporting, GitHub Actions CI/CD |
+| **Live** | [smart-attendance-system-backend.vercel.app](https://smart-attendance-system-backend.vercel.app) |
+| **Status** | 🟢 Live |
+
+---
+
+### 🔹 [CGPA Grading System](https://github.com/King-Austin/CGPA_grading_system_demo)
+> University CGPA calculator powered by a quantum superposition-inspired unified grading algorithm
+
+| | |
+|---|---|
+| **Stack** | `TypeScript` `React` |
+| **Features** | Multi-university grading scale support, unified algorithm, live GPA computation |
+| **Live** | [cgpa.nworahsoft.codes](https://cgpa.nworahsoft.codes) |
 | **Status** | 🟢 Live |
 
 ---
 
 ### 🔹 [Laptop E-Commerce](https://github.com/King-Austin/laptop-ecommerce)
-> Single-vendor e-commerce platform with seamless checkout and admin dashboard
+> Single-vendor storefront with a polished checkout loop, admin dashboard, and global state management
 
 | | |
 |---|---|
 | **Stack** | `TypeScript` `Next.js` `React` |
-| **Features** | Secure payment integration, global state management, admin dashboard, full checkout loop |
-| **Live** | [🌐 laptop-ecommerce-seven.vercel.app](https://laptop-ecommerce-seven.vercel.app) |
+| **Features** | Payment integration, admin dashboard, cart & checkout flow, global state |
+| **Live** | [laptop-ecommerce-seven.vercel.app](https://laptop-ecommerce-seven.vercel.app) |
 | **Status** | 🟢 Live |
 
 ---
