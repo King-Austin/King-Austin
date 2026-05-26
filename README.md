@@ -17,9 +17,54 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="165" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Austin&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Austin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Austin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<!-- WakaTime stats — connect your account at wakatime.com to populate these -->
+<div align="center">
+
+[![Ebuka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingAustin&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@KingAustin)
+
+</div>
+
+<!-- Commit activity heatmap -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Austin&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 📈 Dev Metrics
+
+<div align="center">
+
+```text
+🌞 Morning    ░░░░░░░░░░░░░░░  Active builder — ships across all hours
+🌆 Evening    ████████████░░░  Peak focus window
+🌙 Night      ███░░░░░░░░░░░░  Deep work sessions
+
+📅 Most productive: late evenings & weekends
+🔥 Strongest streak: 12 days  (Aug 10 – Aug 21, 2025)
+📦 Total contributions: 1,098+  (May 2023 – present)
+🔒 Private repos: 33  |  🌍 Public: 26
+```
+
 </div>
 
 ---
@@ -40,7 +85,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Mobile & Database & DevOps**
+**Mobile · Database · DevOps**
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -175,5 +220,8 @@
 <div align="center">
 
 *Let's build something impactful.*
+
+[![GitHub followers](https://img.shields.io/github/followers/King-Austin?style=social)](https://github.com/King-Austin)
+[![GitHub stars](https://img.shields.io/github/stars/King-Austin?style=social)](https://github.com/King-Austin?tab=repositories)
 
 </div>
