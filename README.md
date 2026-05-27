@@ -29,7 +29,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="Trophies" />
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Austin&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Austin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -237,27 +237,29 @@
 *People who follow my work — thank you for the support!*
 
 <div align="center">
-
-[![kenjinote](https://avatars.githubusercontent.com/kenjinote?size=50)](https://github.com/kenjinote)
-[![ranushka-lakmal](https://avatars.githubusercontent.com/ranushka-lakmal?size=50)](https://github.com/ranushka-lakmal)
-[![jay-kumogata](https://avatars.githubusercontent.com/jay-kumogata?size=50)](https://github.com/jay-kumogata)
-[![standardgalactic](https://avatars.githubusercontent.com/standardgalactic?size=50)](https://github.com/standardgalactic)
-[![pchilate](https://avatars.githubusercontent.com/pchilate?size=50)](https://github.com/pchilate)
-[![ConfidenceEfem](https://avatars.githubusercontent.com/ConfidenceEfem?size=50)](https://github.com/ConfidenceEfem)
-[![Sashi2002](https://avatars.githubusercontent.com/Sashi2002?size=50)](https://github.com/Sashi2002)
-[![obahchimaobi](https://avatars.githubusercontent.com/obahchimaobi?size=50)](https://github.com/obahchimaobi)
-[![thepraiz](https://avatars.githubusercontent.com/thepraiz?size=50)](https://github.com/thepraiz)
-[![Augusta08](https://avatars.githubusercontent.com/Augusta08?size=50)](https://github.com/Augusta08)
-[![urveesh28](https://avatars.githubusercontent.com/urveesh28?size=50)](https://github.com/urveesh28)
-[![martins003](https://avatars.githubusercontent.com/martins003?size=50)](https://github.com/martins003)
-[![steph2502](https://avatars.githubusercontent.com/steph2502?size=50)](https://github.com/steph2502)
-[![anwrat](https://avatars.githubusercontent.com/anwrat?size=50)](https://github.com/anwrat)
-[![GabrielFogo](https://avatars.githubusercontent.com/GabrielFogo?size=50)](https://github.com/GabrielFogo)
-[![royal334](https://avatars.githubusercontent.com/royal334?size=50)](https://github.com/royal334)
-[![DataNerd-Coder](https://avatars.githubusercontent.com/DataNerd-Coder?size=50)](https://github.com/DataNerd-Coder)
-[![tswagz](https://avatars.githubusercontent.com/tswagz?size=50)](https://github.com/tswagz)
-[![websync-digital](https://avatars.githubusercontent.com/websync-digital?size=50)](https://github.com/websync-digital)
-
+<table><tr>
+<td align="center"><a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/kenjinote" width="50" height="50" style="border-radius:50%"/><br/><sub>kenjinote</sub></a></td>
+<td align="center"><a href="https://github.com/ranushka-lakmal"><img src="https://avatars.githubusercontent.com/ranushka-lakmal" width="50" height="50" style="border-radius:50%"/><br/><sub>ranushka-lakmal</sub></a></td>
+<td align="center"><a href="https://github.com/jay-kumogata"><img src="https://avatars.githubusercontent.com/jay-kumogata" width="50" height="50" style="border-radius:50%"/><br/><sub>jay-kumogata</sub></a></td>
+<td align="center"><a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/standardgalactic" width="50" height="50" style="border-radius:50%"/><br/><sub>standardgalactic</sub></a></td>
+<td align="center"><a href="https://github.com/pchilate"><img src="https://avatars.githubusercontent.com/pchilate" width="50" height="50" style="border-radius:50%"/><br/><sub>pchilate</sub></a></td>
+<td align="center"><a href="https://github.com/ConfidenceEfem"><img src="https://avatars.githubusercontent.com/ConfidenceEfem" width="50" height="50" style="border-radius:50%"/><br/><sub>ConfidenceEfem</sub></a></td>
+<td align="center"><a href="https://github.com/Sashi2002"><img src="https://avatars.githubusercontent.com/Sashi2002" width="50" height="50" style="border-radius:50%"/><br/><sub>Sashi2002</sub></a></td>
+<td align="center"><a href="https://github.com/obahchimaobi"><img src="https://avatars.githubusercontent.com/obahchimaobi" width="50" height="50" style="border-radius:50%"/><br/><sub>obahchimaobi</sub></a></td>
+<td align="center"><a href="https://github.com/thepraiz"><img src="https://avatars.githubusercontent.com/thepraiz" width="50" height="50" style="border-radius:50%"/><br/><sub>thepraiz</sub></a></td>
+<td align="center"><a href="https://github.com/Augusta08"><img src="https://avatars.githubusercontent.com/Augusta08" width="50" height="50" style="border-radius:50%"/><br/><sub>Augusta08</sub></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/urveesh28"><img src="https://avatars.githubusercontent.com/urveesh28" width="50" height="50" style="border-radius:50%"/><br/><sub>urveesh28</sub></a></td>
+<td align="center"><a href="https://github.com/martins003"><img src="https://avatars.githubusercontent.com/martins003" width="50" height="50" style="border-radius:50%"/><br/><sub>martins003</sub></a></td>
+<td align="center"><a href="https://github.com/steph2502"><img src="https://avatars.githubusercontent.com/steph2502" width="50" height="50" style="border-radius:50%"/><br/><sub>steph2502</sub></a></td>
+<td align="center"><a href="https://github.com/anwrat"><img src="https://avatars.githubusercontent.com/anwrat" width="50" height="50" style="border-radius:50%"/><br/><sub>anwrat</sub></a></td>
+<td align="center"><a href="https://github.com/GabrielFogo"><img src="https://avatars.githubusercontent.com/GabrielFogo" width="50" height="50" style="border-radius:50%"/><br/><sub>GabrielFogo</sub></a></td>
+<td align="center"><a href="https://github.com/royal334"><img src="https://avatars.githubusercontent.com/royal334" width="50" height="50" style="border-radius:50%"/><br/><sub>royal334</sub></a></td>
+<td align="center"><a href="https://github.com/DataNerd-Coder"><img src="https://avatars.githubusercontent.com/DataNerd-Coder" width="50" height="50" style="border-radius:50%"/><br/><sub>DataNerd-Coder</sub></a></td>
+<td align="center"><a href="https://github.com/tswagz"><img src="https://avatars.githubusercontent.com/tswagz" width="50" height="50" style="border-radius:50%"/><br/><sub>tswagz</sub></a></td>
+<td align="center"><a href="https://github.com/websync-digital"><img src="https://avatars.githubusercontent.com/websync-digital" width="50" height="50" style="border-radius:50%"/><br/><sub>websync-digital</sub></a></td>
+<td align="center"></td>
+</tr></table>
 </div>
 
 ---
