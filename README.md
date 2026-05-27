@@ -59,12 +59,6 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="Trophies" />
-</div>
-
 ---
 
 
@@ -258,6 +252,14 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 | [developer-roadmap](https://github.com/King-Austin/developer-roadmap) | Interactive roadmaps and educational content for devs |
 | [n8n-workflows](https://github.com/King-Austin/n8n-workflows) | Community-contributed n8n automation workflows |
 | [career-ops](https://github.com/King-Austin/career-ops) | AI-powered job search system built on Claude Code |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="Trophies" />
+</div>
 
 ---
 
