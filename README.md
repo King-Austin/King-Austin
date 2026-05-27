@@ -14,6 +14,20 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Software Engineer** from Nigeria, focused on building systems that actually ship — not just prototypes.
+
+From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and ML-powered security tools, I work across the full stack: React/Next.js frontends, Django/Node backends, mobile apps with Capacitor, and everything in between.
+
+- 🔭 Currently building **Pharmaloop** — a multi-pharmacy SaaS with WhatsApp drug search, Paystack billing, and real-time inventory
+- 🛡️ Passionate about **security engineering** — cryptographic middleware, phishing detection, and zero-trust system design
+- 🌍 Building for the **Nigerian and African market** — products that solve real local problems at scale
+- ⚡ Founder at **WebSync Digital** — delivering premium web presence for SMEs
+- 📬 Always open to collaborate on impactful products
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -33,6 +47,23 @@
 </div>
 
 ---
+
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+</div>
+
+---
+
+## 🏅 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=King-Austin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="100%" alt="Top Contributed Repos" />
+</div>
 
 ## 📈 Contribution Graph
 
