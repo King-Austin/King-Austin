@@ -59,37 +59,6 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 ---
 
----
-
-## 🤝 Followers
-
-*People who follow my work — thank you for the support!*
-
-<div align="center">
-<table><tr>
-<td align="center"><a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/kenjinote" width="50" height="50" style="border-radius:50%"/><br/><sub>kenjinote</sub></a></td>
-<td align="center"><a href="https://github.com/ranushka-lakmal"><img src="https://avatars.githubusercontent.com/ranushka-lakmal" width="50" height="50" style="border-radius:50%"/><br/><sub>ranushka-lakmal</sub></a></td>
-<td align="center"><a href="https://github.com/jay-kumogata"><img src="https://avatars.githubusercontent.com/jay-kumogata" width="50" height="50" style="border-radius:50%"/><br/><sub>jay-kumogata</sub></a></td>
-<td align="center"><a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/standardgalactic" width="50" height="50" style="border-radius:50%"/><br/><sub>standardgalactic</sub></a></td>
-<td align="center"><a href="https://github.com/pchilate"><img src="https://avatars.githubusercontent.com/pchilate" width="50" height="50" style="border-radius:50%"/><br/><sub>pchilate</sub></a></td>
-<td align="center"><a href="https://github.com/ConfidenceEfem"><img src="https://avatars.githubusercontent.com/ConfidenceEfem" width="50" height="50" style="border-radius:50%"/><br/><sub>ConfidenceEfem</sub></a></td>
-<td align="center"><a href="https://github.com/Sashi2002"><img src="https://avatars.githubusercontent.com/Sashi2002" width="50" height="50" style="border-radius:50%"/><br/><sub>Sashi2002</sub></a></td>
-<td align="center"><a href="https://github.com/obahchimaobi"><img src="https://avatars.githubusercontent.com/obahchimaobi" width="50" height="50" style="border-radius:50%"/><br/><sub>obahchimaobi</sub></a></td>
-<td align="center"><a href="https://github.com/thepraiz"><img src="https://avatars.githubusercontent.com/thepraiz" width="50" height="50" style="border-radius:50%"/><br/><sub>thepraiz</sub></a></td>
-<td align="center"><a href="https://github.com/Augusta08"><img src="https://avatars.githubusercontent.com/Augusta08" width="50" height="50" style="border-radius:50%"/><br/><sub>Augusta08</sub></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/urveesh28"><img src="https://avatars.githubusercontent.com/urveesh28" width="50" height="50" style="border-radius:50%"/><br/><sub>urveesh28</sub></a></td>
-<td align="center"><a href="https://github.com/martins003"><img src="https://avatars.githubusercontent.com/martins003" width="50" height="50" style="border-radius:50%"/><br/><sub>martins003</sub></a></td>
-<td align="center"><a href="https://github.com/steph2502"><img src="https://avatars.githubusercontent.com/steph2502" width="50" height="50" style="border-radius:50%"/><br/><sub>steph2502</sub></a></td>
-<td align="center"><a href="https://github.com/anwrat"><img src="https://avatars.githubusercontent.com/anwrat" width="50" height="50" style="border-radius:50%"/><br/><sub>anwrat</sub></a></td>
-<td align="center"><a href="https://github.com/GabrielFogo"><img src="https://avatars.githubusercontent.com/GabrielFogo" width="50" height="50" style="border-radius:50%"/><br/><sub>GabrielFogo</sub></a></td>
-<td align="center"><a href="https://github.com/royal334"><img src="https://avatars.githubusercontent.com/royal334" width="50" height="50" style="border-radius:50%"/><br/><sub>royal334</sub></a></td>
-<td align="center"><a href="https://github.com/DataNerd-Coder"><img src="https://avatars.githubusercontent.com/DataNerd-Coder" width="50" height="50" style="border-radius:50%"/><br/><sub>DataNerd-Coder</sub></a></td>
-<td align="center"><a href="https://github.com/tswagz"><img src="https://avatars.githubusercontent.com/tswagz" width="50" height="50" style="border-radius:50%"/><br/><sub>tswagz</sub></a></td>
-<td align="center"><a href="https://github.com/websync-digital"><img src="https://avatars.githubusercontent.com/websync-digital" width="50" height="50" style="border-radius:50%"/><br/><sub>websync-digital</sub></a></td>
-<td align="center"></td>
-</tr></table>
-</div>
 
 ---
 
@@ -319,6 +288,38 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="Trophies" />
+</div>
+
+---
+
+## 🤝 Followers
+
+*People who follow my work — thank you for the support!*
+
+<div align="center">
+<table><tr>
+<td align="center"><a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/kenjinote" width="50" height="50" style="border-radius:50%"/><br/><sub>kenjinote</sub></a></td>
+<td align="center"><a href="https://github.com/ranushka-lakmal"><img src="https://avatars.githubusercontent.com/ranushka-lakmal" width="50" height="50" style="border-radius:50%"/><br/><sub>ranushka-lakmal</sub></a></td>
+<td align="center"><a href="https://github.com/jay-kumogata"><img src="https://avatars.githubusercontent.com/jay-kumogata" width="50" height="50" style="border-radius:50%"/><br/><sub>jay-kumogata</sub></a></td>
+<td align="center"><a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/standardgalactic" width="50" height="50" style="border-radius:50%"/><br/><sub>standardgalactic</sub></a></td>
+<td align="center"><a href="https://github.com/pchilate"><img src="https://avatars.githubusercontent.com/pchilate" width="50" height="50" style="border-radius:50%"/><br/><sub>pchilate</sub></a></td>
+<td align="center"><a href="https://github.com/ConfidenceEfem"><img src="https://avatars.githubusercontent.com/ConfidenceEfem" width="50" height="50" style="border-radius:50%"/><br/><sub>ConfidenceEfem</sub></a></td>
+<td align="center"><a href="https://github.com/Sashi2002"><img src="https://avatars.githubusercontent.com/Sashi2002" width="50" height="50" style="border-radius:50%"/><br/><sub>Sashi2002</sub></a></td>
+<td align="center"><a href="https://github.com/obahchimaobi"><img src="https://avatars.githubusercontent.com/obahchimaobi" width="50" height="50" style="border-radius:50%"/><br/><sub>obahchimaobi</sub></a></td>
+<td align="center"><a href="https://github.com/thepraiz"><img src="https://avatars.githubusercontent.com/thepraiz" width="50" height="50" style="border-radius:50%"/><br/><sub>thepraiz</sub></a></td>
+<td align="center"><a href="https://github.com/Augusta08"><img src="https://avatars.githubusercontent.com/Augusta08" width="50" height="50" style="border-radius:50%"/><br/><sub>Augusta08</sub></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/urveesh28"><img src="https://avatars.githubusercontent.com/urveesh28" width="50" height="50" style="border-radius:50%"/><br/><sub>urveesh28</sub></a></td>
+<td align="center"><a href="https://github.com/martins003"><img src="https://avatars.githubusercontent.com/martins003" width="50" height="50" style="border-radius:50%"/><br/><sub>martins003</sub></a></td>
+<td align="center"><a href="https://github.com/steph2502"><img src="https://avatars.githubusercontent.com/steph2502" width="50" height="50" style="border-radius:50%"/><br/><sub>steph2502</sub></a></td>
+<td align="center"><a href="https://github.com/anwrat"><img src="https://avatars.githubusercontent.com/anwrat" width="50" height="50" style="border-radius:50%"/><br/><sub>anwrat</sub></a></td>
+<td align="center"><a href="https://github.com/GabrielFogo"><img src="https://avatars.githubusercontent.com/GabrielFogo" width="50" height="50" style="border-radius:50%"/><br/><sub>GabrielFogo</sub></a></td>
+<td align="center"><a href="https://github.com/royal334"><img src="https://avatars.githubusercontent.com/royal334" width="50" height="50" style="border-radius:50%"/><br/><sub>royal334</sub></a></td>
+<td align="center"><a href="https://github.com/DataNerd-Coder"><img src="https://avatars.githubusercontent.com/DataNerd-Coder" width="50" height="50" style="border-radius:50%"/><br/><sub>DataNerd-Coder</sub></a></td>
+<td align="center"><a href="https://github.com/tswagz"><img src="https://avatars.githubusercontent.com/tswagz" width="50" height="50" style="border-radius:50%"/><br/><sub>tswagz</sub></a></td>
+<td align="center"><a href="https://github.com/websync-digital"><img src="https://avatars.githubusercontent.com/websync-digital" width="50" height="50" style="border-radius:50%"/><br/><sub>websync-digital</sub></a></td>
+<td align="center"></td>
+</tr></table>
 </div>
 
 ---
