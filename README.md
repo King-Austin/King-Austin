@@ -7,8 +7,13 @@
 **Building production systems across Security, E-Commerce, EdTech, and AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nworahebuka.nworahsoft.codes-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebuka.nworahsoft.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nworah-ebuka-augustus)
 [![Email](https://img.shields.io/badge/Email-kingaustin31415926%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingaustin31415926@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=King-Austin&color=7aa2f7&style=for-the-badge&label=Profile+Views)
+
+[![Status](https://img.shields.io/badge/🔨_Building-Pharmaloop_SaaS-f7768e?style=for-the-badge)](https://github.com/King-Austin)
+[![Freelance](https://img.shields.io/badge/💼_Available-For_Freelance-3ECF8E?style=for-the-badge)](mailto:kingaustin31415926@gmail.com)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Setup_in_Progress-7aa2f7?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@KingAustin)
 
 </div>
 
@@ -26,6 +31,17 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 - ⚡ Founder at **WebSync Digital** — delivering premium web presence for SMEs
 - 📬 Always open to collaborate on impactful products
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 ---
 
 ## 📊 GitHub Analytics
