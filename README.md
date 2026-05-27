@@ -7,7 +7,7 @@
 **Building production systems across Security, E-Commerce, EdTech, and AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nworahebuka.nworahsoft.codes-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebuka.nworahsoft.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nworah-ebuka-augustus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amkingaustin)
 [![Email](https://img.shields.io/badge/Email-kingaustin31415926%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingaustin31415926@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=King-Austin&color=7aa2f7&style=for-the-badge&label=Profile+Views)
 
@@ -35,11 +35,14 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 ## 🐍 Contribution Snake
 
+> ⏳ Generating... check back in a few minutes — the Action is running for the first time.
+> Once done, the animated snake eating your contribution squares will appear here automatically every day.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/King-Austin/King-Austin/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 ---
@@ -75,10 +78,15 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 ---
 
-## 🏅 Top Contributed Repos
+## 🏅 Profile Summary Cards
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=King-Austin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="100%" alt="Top Contributed Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-Austin&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-Austin&theme=tokyonight" height="160" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-Austin&theme=tokyonight" height="160" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-Austin&theme=tokyonight" height="160" alt="Stats" />
 </div>
 
 ## 📈 Contribution Graph
