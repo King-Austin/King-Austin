@@ -17,11 +17,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=King-Austin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="170" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=King-Austin&theme=tokyonight&hide_border=true" height="170" alt="Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Austin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=King-Austin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Languages" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=King-Austin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="Trophies" />
 </div>
 
 ---
