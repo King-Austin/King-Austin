@@ -232,6 +232,36 @@
 
 ---
 
+## 🤝 Followers
+
+*People who follow my work — thank you for the support!*
+
+<div align="center">
+
+[![kenjinote](https://avatars.githubusercontent.com/kenjinote?size=50)](https://github.com/kenjinote)
+[![ranushka-lakmal](https://avatars.githubusercontent.com/ranushka-lakmal?size=50)](https://github.com/ranushka-lakmal)
+[![jay-kumogata](https://avatars.githubusercontent.com/jay-kumogata?size=50)](https://github.com/jay-kumogata)
+[![standardgalactic](https://avatars.githubusercontent.com/standardgalactic?size=50)](https://github.com/standardgalactic)
+[![pchilate](https://avatars.githubusercontent.com/pchilate?size=50)](https://github.com/pchilate)
+[![ConfidenceEfem](https://avatars.githubusercontent.com/ConfidenceEfem?size=50)](https://github.com/ConfidenceEfem)
+[![Sashi2002](https://avatars.githubusercontent.com/Sashi2002?size=50)](https://github.com/Sashi2002)
+[![obahchimaobi](https://avatars.githubusercontent.com/obahchimaobi?size=50)](https://github.com/obahchimaobi)
+[![thepraiz](https://avatars.githubusercontent.com/thepraiz?size=50)](https://github.com/thepraiz)
+[![Augusta08](https://avatars.githubusercontent.com/Augusta08?size=50)](https://github.com/Augusta08)
+[![urveesh28](https://avatars.githubusercontent.com/urveesh28?size=50)](https://github.com/urveesh28)
+[![martins003](https://avatars.githubusercontent.com/martins003?size=50)](https://github.com/martins003)
+[![steph2502](https://avatars.githubusercontent.com/steph2502?size=50)](https://github.com/steph2502)
+[![anwrat](https://avatars.githubusercontent.com/anwrat?size=50)](https://github.com/anwrat)
+[![GabrielFogo](https://avatars.githubusercontent.com/GabrielFogo?size=50)](https://github.com/GabrielFogo)
+[![royal334](https://avatars.githubusercontent.com/royal334?size=50)](https://github.com/royal334)
+[![DataNerd-Coder](https://avatars.githubusercontent.com/DataNerd-Coder?size=50)](https://github.com/DataNerd-Coder)
+[![tswagz](https://avatars.githubusercontent.com/tswagz?size=50)](https://github.com/tswagz)
+[![websync-digital](https://avatars.githubusercontent.com/websync-digital?size=50)](https://github.com/websync-digital)
+
+</div>
+
+---
+
 <div align="center">
 
 *Let's build something impactful.*
