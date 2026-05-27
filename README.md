@@ -269,6 +269,5 @@
 *Let's build something impactful.*
 
 [![GitHub followers](https://img.shields.io/github/followers/King-Austin?style=social)](https://github.com/King-Austin)
-[![GitHub stars](https://img.shields.io/github/stars/King-Austin?style=social)](https://github.com/King-Austin?tab=repositories)
 
 </div>
