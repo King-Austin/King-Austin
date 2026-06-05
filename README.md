@@ -303,17 +303,6 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 
 ---
 
-### 🔹 [Income Chase Buddy](https://github.com/King-Austin/income-chase-buddy) *(Private)*
-> Financial planning and budget optimization companion
-
-| | |
-|---|---|
-| **Stack** | `TypeScript` `React` |
-| **Features** | Budget tracking, financial planning, goal management |
-| **Live** | [financebuddy-chi.vercel.app](https://financebuddy-chi.vercel.app) |
-| **Status** | 🟢 Live |
-
----
 
 ### 🔹 [Sui Walrus](https://github.com/King-Austin/sui-walrus)
 > Blockchain wallet integration for Sui network
