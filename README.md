@@ -298,7 +298,7 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 |---|---|
 | **Stack** | `HTML` `CSS` `JavaScript` |
 | **Features** | Multi-stream income tracking, real-time analytics, progress visualization |
-| **Live** | [income-race-tracker.vercel.app](https://income-race-tracker.vercel.app) |
+| **Live** | [income-race-tracker.vercel.app](https://income-goal.vercel.app) |
 | **Status** | 🟢 Live |
 
 ---
