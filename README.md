@@ -278,6 +278,56 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 | [supabase](https://github.com/King-Austin/supabase) | The open-source Postgres development platform |
 | [bolt.diy](https://github.com/King-Austin/bolt.diy) | Prompt-to-full-stack-app builder supporting any LLM |
 | [OpenFoundry](https://github.com/King-Austin/OpenFoundry) | Open-source alternative to Palantir Foundry |
+
+### 🔹 [BlobPass](https://github.com/King-Austin/BlobPass)
+> Testing ground for branching patterns and architectural experiments
+
+| | |
+|---|---|
+| **Stack** | `TypeScript` `React` |
+| **Features** | Blob storage integration, file management |
+| **Live** | [blob-pass.vercel.app](https://blob-pass.vercel.app) |
+| **Status** | 🟢 Live |
+
+---
+
+### 🔹 [Income Race Tracker](https://github.com/King-Austin/income-race-tracker)
+> Track and visualize income growth across multiple streams
+
+| | |
+|---|---|
+| **Stack** | `HTML` `CSS` `JavaScript` |
+| **Features** | Multi-stream income tracking, real-time analytics, progress visualization |
+| **Live** | [income-race-tracker.vercel.app](https://income-race-tracker.vercel.app) |
+| **Status** | 🟢 Live |
+
+---
+
+### 🔹 [Income Chase Buddy](https://github.com/King-Austin/income-chase-buddy) *(Private)*
+> Financial planning and budget optimization companion
+
+| | |
+|---|---|
+| **Stack** | `TypeScript` `React` |
+| **Features** | Budget tracking, financial planning, goal management |
+| **Live** | [financebuddy-chi.vercel.app](https://financebuddy-chi.vercel.app) |
+| **Status** | 🟢 Live |
+
+---
+
+### 🔹 [Sui Walrus](https://github.com/King-Austin/sui-walrus)
+> Blockchain wallet integration for Sui network
+
+| | |
+|---|---|
+| **Stack** | `TypeScript` `React` |
+| **Features** | Wallet management, blockchain interaction, transaction handling |
+| **Live** | [app-omega-seven-55.vercel.app](https://app-omega-seven-55.vercel.app) |
+| **Status** | 🟢 Live |
+
+---
+
+
 | [developer-roadmap](https://github.com/King-Austin/developer-roadmap) | Interactive roadmaps and educational content for devs |
 | [n8n-workflows](https://github.com/King-Austin/n8n-workflows) | Community-contributed n8n automation workflows |
 | [career-ops](https://github.com/King-Austin/career-ops) | AI-powered job search system built on Claude Code |
