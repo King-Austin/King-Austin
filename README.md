@@ -6,7 +6,7 @@
 
 **Building production systems across Security, E-Commerce, EdTech, and AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nworahebuka.nworahsoft.codes-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebuka.nworahsoft.codes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nworahebuka.nworahebukacom.ng-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebukacom.ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amkingaustin)
 [![Email](https://img.shields.io/badge/Email-kingaustin31415926%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingaustin31415926@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=King-Austin&color=7aa2f7&style=for-the-badge&label=Profile+Views)
@@ -254,7 +254,7 @@ From zero-trust attendance infrastructure to multi-pharmacy SaaS platforms and M
 |---|---|
 | **Stack** | `TypeScript` `React` |
 | **Features** | Multi-university grading scale support, unified algorithm, live GPA computation |
-| **Live** | [cgpa.nworahsoft.codes](https://cgpa.nworahsoft.codes) |
+| **Live** | [cgpa.nworahebukacom.ng](https://cgpa.nworahebukacom.ng) |
 | **Status** | 🟢 Live |
 
 ---
