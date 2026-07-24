@@ -6,7 +6,7 @@
 
 **Building production systems across Security, E-Commerce, EdTech, and AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nworahebuka.nworahebukacom.ng-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebukacom.ng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nworahebukacom.ng-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nworahebukacom.ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amkingaustin)
 [![Email](https://img.shields.io/badge/Email-kingaustin31415926%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingaustin31415926@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=King-Austin&color=7aa2f7&style=for-the-badge&label=Profile+Views)
